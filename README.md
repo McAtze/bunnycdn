@@ -3,6 +3,8 @@ BunnyCDN is one of the fastest and most cost effective CDN.
 
 With this BunnyCDN PHP Class you can easily implement it and turbo charge your website content to deliver it at lighting speed to your visitors.
 
-## Documentation: [http://codewithmark.com/bunnycdn](http://codewithmark.com/bunnycdn)
+### Documentation
+[http://codewithmark.com/bunnycdn](http://codewithmark.com/bunnycdn)
 
-## License Agreement: You have the rights to do whatever you like with this library in your projects
+### License Agreement
+You have the rights to do whatever you like with this library in your projects
